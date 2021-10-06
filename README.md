@@ -6,8 +6,8 @@
 </div>
 </hr>
 
-[![Build Status](https://app.travis-ci.com/kavyadevd/AcmeRoboticsPathPlanner.svg?branch=main)](https://app.travis-ci.com/kavyadevd/AcmeRoboticsPathPlanner)
-[![Coverage Status](https://coveralls.io/repos/github/kavyadevd/AcmeRoboticsPathPlanner/badge.svg?branch=main)](https://coveralls.io/github/kavyadevd/AcmeRoboticsPathPlanner?branch=main)
+[![Build Status](https://app.travis-ci.com/kavyadevd/ArmPathPlanner.svg?branch=main)](https://app.travis-ci.com/kavyadevd/ArmPathPlanner)
+[![Coverage Status](https://coveralls.io/repos/github/kavyadevd/ArmPathPlanner/badge.svg?branch=main)](https://coveralls.io/github/kavyadevd/ArmPathPlanner?branch=main)
 
 </hr>
 This is a C++ project for motion planning of a robotic arm manipulator. The work was proposed and developed for Acme Robotics. The project was developed using standard software development practices.
@@ -18,7 +18,7 @@ This is a C++ project for motion planning of a robotic arm manipulator. The work
 The project requires a C++ environment, coppeliasim application for execution.
 
 ```bash
-git clone --recursive https://github.com/kavyadevd/AcmeRoboticsPathPlanner.git
+git clone --recursive https://github.com/kavyadevd/ArmPathPlanner.git
 cd AcmeRoboticsPathPlanner
 mkdir -p build
 cd build
